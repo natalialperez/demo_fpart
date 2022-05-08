@@ -9,10 +9,12 @@ python fparticulas.py -i SecuenciaPelota
 ```
 ![Alt Text](https://github.com/natalialperez/demo_fpart/blob/main/ballgif.gif)
 
-Para vídeos, con la librería streamlit, botón negro en la parte superior con la app ya desplegada o ejecutar en local:
+Para vídeos, con la librería streamlit, ejecutar en local:
 
 ```
 streamlit run fparticulas_streamlit.py
 ```
 
 ![alt text](https://github.com/natalialperez/demo_fpart/blob/main/Images/streamlit.PNG)
+
+**Botón negro en la parte superior con la app ya desplegada no funciona. Deben solucionar el uso de vídeos en cloud https://discuss.streamlit.io/t/unable-to-import-cv2/22942/11
